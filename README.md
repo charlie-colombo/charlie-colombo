@@ -31,6 +31,6 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (www.linkedin.com/in/κάρολος-κολόμπο-829a92384)
+- LinkedIn: (www.linkedin.com/in/charlie-colombo-829a92384)
 
 ---
