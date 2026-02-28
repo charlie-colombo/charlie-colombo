@@ -17,7 +17,7 @@
 ## 📂 Featured Projects
 
 🔗 Check my coursework repository here:  
-👉 https://github.com/charlie-colombo/CS_CW_1
+👉 https://github.com/charlie-colombo/Software-Dev-CW1-CN4001
 
 ---
 
