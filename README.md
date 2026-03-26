@@ -21,11 +21,13 @@
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Languages & Tools
 
 - Java
-- GitHub
 - Basic HTML
+- GitHub
+- Markdown
+- IntelliJ IDEA
 
 ---
 
