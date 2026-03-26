@@ -24,7 +24,7 @@
 ## 🛠 Languages & Tools
 
 - Java
-- Basic HTML
+- Basic HTML & CSS
 - GitHub
 - Markdown
 - IntelliJ IDEA
